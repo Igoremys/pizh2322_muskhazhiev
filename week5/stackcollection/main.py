@@ -1,5 +1,5 @@
 from stack import Stack
-from stackcollection import StackCollection  # Убедитесь, что имя файла и класса совпадают
+from stackcollection import StackCollection 
 
 if __name__ == "__main__":
     # Создание стека
